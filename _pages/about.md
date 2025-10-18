@@ -90,7 +90,7 @@ Yanna Wang, **Yucheng Li**, Mingyi Yuan, Xiang Fei, Shihang Ma, Preben Hansen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI</div><img src='images/OdorCarousel.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI</div><img src='images/Odorcarousel.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OdorCarousel: A Design Tool for Customizing Smell-Enhanced Virtual Experiences](https://www.tandfonline.com/doi/full/10.1080/10447318.2024.2314818?scroll=top&needAccess=true)
@@ -102,7 +102,7 @@ Xiang Fei, Yanna Wang, **Yucheng Li**, Zhengyu Lou, Yifan Yan, Yujing Tian, Qing
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI</div><img src='images/MorphingScents.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI</div><img src='images/MorphingScents.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MorphingScents: Fabricating Thin, Flexible, and Shape-Changing Odor-Emitting Mechanism for Interactive Olfactory Encounters](https://www.tandfonline.com/doi/epdf/10.1080/10447318.2024.2427407?needAccess=true)
