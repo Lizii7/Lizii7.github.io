@@ -24,7 +24,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🔥 News
 - *2025.10*: &nbsp;🎉🎉 Two co-authores' posters were accepted by UIST’25! Congrats to <a href='https://doi.org/10.1145/3746058.3758447'>Qimeng <strong><span id='total_cit'></a> and <a href='https://doi.org/10.1145/3746058.3758432'>Yanzi <strong><span id='total_cit'></a>!
-- *2025.09*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10*: &nbsp;🎉🎉 Two co-authores' posters were accepted by UIST’25! Congrats to <a href='https://doi.org/10.1145/3746058.3758447'>Qimeng <strong><span id='total_cit'></a> and <a href='https://doi.org/10.1145/3746058.3758432'>Yanzi <strong><span id='total_cit'></a>!
+- *2025.10*: &nbsp;🎉🎉 Two co-authores' posters were accepted by UIST’25! Congrats to <a href='https://doi.org/10.1145/3746058.3758447'>Qimeng <strong><span id='total_cit'></a> and <a href='https://doi.org/10.1145/3746058.3758432'>Yanzi <strong><span id='total_cit'></a>!
+- *2025.10*: &nbsp;🎉🎉 Two co-authores' posters were accepted by UIST’25! Congrats to <a href='https://doi.org/10.1145/3746058.3758447'>Qimeng <strong><span id='total_cit'></a> and <a href='https://doi.org/10.1145/3746058.3758432'>Yanzi <strong><span id='total_cit'></a>!
 
 # 📝 Publications 
 
