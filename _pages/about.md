@@ -23,10 +23,17 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉🎉 Two co-authores' posters were accepted by UIST’25! Congrats to <a href='https://doi.org/10.1145/3746058.3758447'>Qimeng <span id='total_cit'> and <a href='https://doi.org/10.1145/3746058.3758432'>Yanzi <span id='total_cit'>!
-- *2025.10*: &nbsp;🎉🎉 Two co-authores' posters were accepted by UIST’25! Congrats to <a href='https://doi.org/10.1145/3746058.3758447'>Qimeng <strong><span id='total_cit'> and <a href='https://doi.org/10.1145/3746058.3758432'>Yanzi <strong><span id='total_cit'>!
-- *2025.10*: &nbsp;🎉🎉 Two co-authores' posters were accepted by UIST’25! Congrats to <a href='https://doi.org/10.1145/3746058.3758447'>Qimeng <strong><span id='total_cit'> and <a href='https://doi.org/10.1145/3746058.3758432'>Yanzi <strong><span id='total_cit'>!
-- *2025.10*: &nbsp;🎉🎉 Two co-authores' posters were accepted by UIST’25! Congrats to <a href='https://doi.org/10.1145/3746058.3758447'>Qimeng <strong><span id='total_cit'> and <a href='https://doi.org/10.1145/3746058.3758432'>Yanzi <strong><span id='total_cit'>!
+- *2025.10* &nbsp;🏆 Excited to share that I was awarded the National Scholarship (1%) at Donghua University.
+- <strong>*2025.10*: &nbsp;🎉🎉 Two co-authores' posters were accepted by UIST’25! Congrats to <a href='https://doi.org/10.1145/3746058.3758447'>Qimeng and <a href='https://doi.org/10.1145/3746058.3758432'>Yanzi!
+- *2025.09*: &nbsp;✨ Submitted my first-author paper to CHI 2026！
+- *2025.04*: &nbsp;🥳 Excited to my first CHI in Yokohama, Japan🇯🇵! 
+- *2025.04*: &nbsp;🎉🎉 Our paper <a href='https://doi.org/10.1145/3746058.3758447'>"AromaBite: Augmenting Flavor Experiences Through Edible Retronasal Scent Release" was accapted by CHI! Many thanks to my co-authors!
+- *2025.04* &nbsp;🎉🎉 Congrats to a co-authored paper <a href='https://www.tandfonline.com/doi/epdf/10.1080/10447318.2024.2427407?needAccess=true'>'MorphingScents: Fabricating Thin, Flexible, and Shape-Changing Odor-Emitting Mechanism for Interactive Olfactory Encounters' was accapted by IJHCI!
+- *2025.01* &nbsp;🎉🎉 Congrats to a co-authored paper <a href='https://dl.acm.org/doi/pdf/10.1145/3706598.3713964'>'Mid-Air Gestures for Proactive Olfactory Interactions in Virtual Reality' was accapted by CHI!
+- *2024.10*: &nbsp;😋 I was invited to be a reviewer for ChineseCHI 2025! 
+- *2024.09*：&nbsp;🎉🎉 Our paper "ScentClue: Enhancing Story Engagement in Virtual Reality Through Hedonically Varied Olfactory Hints" was accapted by IJHCI! This is my first pulished paper! Thanks for Dr. Wang teaching and labmates' help!
+- *2024.08*: &nbsp;🎉🎉 Our paper'Review on Olfactory Display Technology' was accapted as the cover artical by Package engineering!
+- *2024.02*: &nbsp;🎉🎉 Congrats to a co-authored paper <a href='https://www.tandfonline.com/doi/full/10.1080/10447318.2024.2314818?scroll=top&needAccess=true'>'OdorCarousel: A Design Tool for Customizing Smell Enhanced Virtual Experiences' was accapted by IJHCI!
 
 # 📝 Publications 
 
@@ -36,6 +43,18 @@ My research interest includes neural machine translation and computer vision. I 
 [AromaBite: Augmenting Flavor Experiences Through Edible Retronasal Scent Release](https://dl.acm.org/doi/pdf/10.1145/3706599.3720200)
 
 **Yucheng Li**, Yanan Wang, Mengyuan Xiong, Max Chen, Yifan Yan, Junxian Li, Qi Wang, Preben Hansen
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI</div><img src='images/ScentClue.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ScentClue: Enhancing Story Engagement in Virtual Reality Through Hedonically Varied Olfactory Hints](https://www.tandfonline.com/doi/epdf/10.1080/10447318.2024.2397173?needAccess=true)
+
+Yanna Wang, **Yucheng Li**, Mingyi Yuan, Xiang Fei, Shihang Ma, Preben Hansen 
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -72,18 +91,6 @@ Qimeng Cui, Yanan Wang,**Yucheng Li**
 [Mid-Air Gestures for Proactive Olfactory Interactions in Virtual Reality](https://dl.acm.org/doi/pdf/10.1145/3706598.3713964)
 
 Junxian Li, Yanan Wang, Zhitong Cui, Jas Brooks, Yifan Yan, Zhengyu Lou, **Yucheng Li**
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI</div><img src='images/ScentClue.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[ScentClue: Enhancing Story Engagement in Virtual Reality Through Hedonically Varied Olfactory Hints](https://www.tandfonline.com/doi/epdf/10.1080/10447318.2024.2397173?needAccess=true)
-
-Yanna Wang, **Yucheng Li**, Mingyi Yuan, Xiang Fei, Shihang Ma, Preben Hansen 
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
