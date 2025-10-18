@@ -23,14 +23,14 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉🎉 Two co-authores' posters were accepted by UIST’25! Congrats to <a href='https://doi.org/10.1145/3746058.3758447'>Qimeng <strong><span id='total_cit'> and <a href='https://doi.org/10.1145/3746058.3758432'>Yanzi <strong><span id='total_cit'>!
+- *2025.10*: &nbsp;🎉🎉 Two co-authores' posters were accepted by UIST’25! Congrats to <a href='https://doi.org/10.1145/3746058.3758447'>Qimeng <span id='total_cit'> and <a href='https://doi.org/10.1145/3746058.3758432'>Yanzi <span id='total_cit'>!
 - *2025.10*: &nbsp;🎉🎉 Two co-authores' posters were accepted by UIST’25! Congrats to <a href='https://doi.org/10.1145/3746058.3758447'>Qimeng <strong><span id='total_cit'> and <a href='https://doi.org/10.1145/3746058.3758432'>Yanzi <strong><span id='total_cit'>!
 - *2025.10*: &nbsp;🎉🎉 Two co-authores' posters were accepted by UIST’25! Congrats to <a href='https://doi.org/10.1145/3746058.3758447'>Qimeng <strong><span id='total_cit'> and <a href='https://doi.org/10.1145/3746058.3758432'>Yanzi <strong><span id='total_cit'>!
 - *2025.10*: &nbsp;🎉🎉 Two co-authores' posters were accepted by UIST’25! Congrats to <a href='https://doi.org/10.1145/3746058.3758447'>Qimeng <strong><span id='total_cit'> and <a href='https://doi.org/10.1145/3746058.3758432'>Yanzi <strong><span id='total_cit'>!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI‘25</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI‘25</div><img src='images/AromaBite.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AromaBite: Augmenting Flavor Experiences Through Edible Retronasal Scent Release](https://dl.acm.org/doi/pdf/10.1145/3706599.3720200)
@@ -42,10 +42,10 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST‘25</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST‘25</div><img src='images/Visualeffect.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Designing Visual Effects to Fabricate Olfactory Experiences in Augmented Reality](https://dl.acm.org/doi/pdf/10.1145/3706599.3720200)
+[Designing Visual Effects to Fabricate Olfactory Experiences in Augmented Reality](https://dl.acm.org/doi/pdf/10.1145/3746058.3758432)
 
 Yanzi Zhu, **Yucheng Li**, Yanan Wang
 
@@ -54,10 +54,10 @@ Yanzi Zhu, **Yucheng Li**, Yanan Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST‘25</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST‘25</div><img src='images/Illusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Exploring Olfactory Illusion of Virtual Objects Using Fewer Odor Sources](https://dl.acm.org/doi/pdf/10.1145/3706599.3720200)
+[Exploring Olfactory Illusion of Virtual Objects Using Fewer Odor Sources](https://dl.acm.org/doi/pdf/10.1145/3746058.3758447)
 
 Qimeng Cui, Yanan Wang,**Yucheng Li**
 
@@ -66,10 +66,10 @@ Qimeng Cui, Yanan Wang,**Yucheng Li**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST‘25</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST‘25</div><img src='images/Mid-air.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mid-Air Gestures for Proactive Olfactory Interactions in Virtual Reality](https://dl.acm.org/doi/pdf/10.1145/3706599.3720200)
+[Mid-Air Gestures for Proactive Olfactory Interactions in Virtual Reality](https://dl.acm.org/doi/pdf/10.1145/3706598.3713964)
 
 Junxian Li, Yanan Wang, Zhitong Cui, Jas Brooks, Yifan Yan, Zhengyu Lou, **Yucheng Li**
 
@@ -78,10 +78,10 @@ Junxian Li, Yanan Wang, Zhitong Cui, Jas Brooks, Yifan Yan, Zhengyu Lou, **Yuche
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI</div><img src='images/ScentClue.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ScentClue: Enhancing Story Engagement in Virtual Reality Through Hedonically Varied Olfactory Hints](https://dl.acm.org/doi/pdf/10.1145/3706599.3720200)
+[ScentClue: Enhancing Story Engagement in Virtual Reality Through Hedonically Varied Olfactory Hints](https://www.tandfonline.com/doi/epdf/10.1080/10447318.2024.2397173?needAccess=true)
 
 Yanna Wang, **Yucheng Li**, Mingyi Yuan, Xiang Fei, Shihang Ma, Preben Hansen 
 
@@ -90,10 +90,10 @@ Yanna Wang, **Yucheng Li**, Mingyi Yuan, Xiang Fei, Shihang Ma, Preben Hansen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI</div><img src='images/OdorCarousel.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[OdorCarousel: A Design Tool for Customizing Smell-Enhanced Virtual Experiences](https://dl.acm.org/doi/pdf/10.1145/3706599.3720200)
+[OdorCarousel: A Design Tool for Customizing Smell-Enhanced Virtual Experiences](https://www.tandfonline.com/doi/full/10.1080/10447318.2024.2314818?scroll=top&needAccess=true)
 
 Xiang Fei, Yanna Wang, **Yucheng Li**, Zhengyu Lou, Yifan Yan, Yujing Tian, Qingjun Chen
 
@@ -102,12 +102,24 @@ Xiang Fei, Yanna Wang, **Yucheng Li**, Zhengyu Lou, Yifan Yan, Yujing Tian, Qing
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI</div><img src='images/MorphingScents.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MorphingScents: Fabricating Thin, Flexible, and Shape-Changing Odor-Emitting Mechanism for Interactive Olfactory Encounters](https://dl.acm.org/doi/pdf/10.1145/3706599.3720200)
+[MorphingScents: Fabricating Thin, Flexible, and Shape-Changing Odor-Emitting Mechanism for Interactive Olfactory Encounters](https://www.tandfonline.com/doi/epdf/10.1080/10447318.2024.2427407?needAccess=true)
 
 Yifan Yan, Yanna Wang, Mingyi Yuan, **Yucheng Li**, Yilin Shao, Guanyun Wang, Qi Wang, Yujing Tian
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Packaging Engineering</div><img src='images/Review.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Review on Olfactory Display Technology]('images/Olfactory Display Review,pdf')
+
+Yanna Wang, Yifan Yan, **Yucheng Li**, Yizhong Chen, Qingjun Chen
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
