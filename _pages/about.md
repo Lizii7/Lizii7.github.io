@@ -38,7 +38,7 @@ I aim to design intuitive interfaces that enable users to engage more naturally 
 - *2024.02* &nbsp;🎉 Congrats to a co-authored paper [*'OdorCarousel: A Design Tool for Customizing Smell Enhanced Virtual Experiences'*](https://www.tandfonline.com/doi/full/10.1080/10447318.2024.2314818?scroll=top&needAccess=true) was accapted by IJHCI!
 
 # 📝 Publications 
-I cultivated my interest in HCI more focous on olfactory interaction by exploring a range of topics. Gradually, I found they formed three aspects: (1) **crossmodal inflence between perception** (CHI’25, DIS’25), (2) **olfactory in different scanio context ** (CHI’25, IJHCI)  (3) **scent releasing methods** more base on hardwares (IJHCI).
+I cultivated my interest in HCI more focous on olfactory interaction by exploring a range of topics. Gradually, I found they formed three aspects: (1) **crossmodal inflence between perception** (CHI’25, DIS’25), (2) **olfactory in different scanio context** (CHI’25, IJHCI)  (3) **scent releasing methods** more base on hardwares (IJHCI).
 
 <div class='paper-box'>
   <div class='paper-box-image'>
