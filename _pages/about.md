@@ -49,7 +49,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI</div><img src='images/ScentClue.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI</div><a href='https://www.tandfonline.com/doi/epdf/10.1080/10447318.2024.2397173?needAccess=true'><img src='images/ScentClue.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ScentClue: Enhancing Story Engagement in Virtual Reality Through Hedonically Varied Olfactory Hints**](https://www.tandfonline.com/doi/epdf/10.1080/10447318.2024.2397173?needAccess=true)
