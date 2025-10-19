@@ -27,7 +27,8 @@
 
 
   @include breakpoint($x-large) {
-    padding-right: 10em;
+    padding-right: 1em;
+    padding-left: 10em;
   }
 
   h2, h3, h4, h5, h6 {

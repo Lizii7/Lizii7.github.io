@@ -16,10 +16,14 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-6
-My research focuses on creating **immersive** and **multi-sensory experiences**, with an emphasis on **Interaction Design**, **User Experience** and **Virtual reality**. I am particularly interested in developing innovative ways to enhance sensory feedback, such as through material driven design to create olfactory new feedback, to bridge the gap between physical and digital environments. 
+7
+Hi,I'm Yucheng Li, a year-3 M.D. stduent advised by [**Yanan Wang**](https://scholar.google.com/citations?user=iFxl5vwAAAAJ&hl=zh-CN&oi=sra) in Donghua University, Shanghai. As a member of [**NewSense Research Lab**](https://hci-newsense.org/), my research focuses on Human-Computer Interaction (HCI), creating **immersive** and **multi-sensory experiences**, with an emphasis on **Interaction Design**, **User Experience** and **Virtual reality**. I am particularly interested in developing innovative ways to enhance sensory feedback, such as through material driven design to create olfactory feedback in specific people or scaino, to bridge the gap between physical and digital environments. 
 
-I aim to design intuitive interfaces that enable users to engage more naturally with complex data and virtual environments. My work spans experimental system development, user-centered design, and evaluating multi-sensory interfaces to explore how digital interactivity can be both enriching and intuitive.
+I aim to design intuitive interfaces that enable users to engage more naturally feedback and virtual environments. My work spans experimental system development, user-centered design, and evaluating multi-sensory interfaces to explore how digital interactivity can be both enriching and intuitive.
+
+So far, I cultivated my interest in HCI more focous on olfactory interaction by exploring a range of topics. Gradually, I found they formed three aspects: (1) **crossmodal inflence between perception** (CHI’25, DIS’25), (2) **olfactory in different scanio context** (CHI’25, IJHCI)  (3) **scent releasing methods** more base on hardwares (IJHCI).
+
+
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -38,8 +42,6 @@ I aim to design intuitive interfaces that enable users to engage more naturally 
 - *2024.02* &nbsp;🎉 Congrats to a co-authored paper [*'OdorCarousel: A Design Tool for Customizing Smell Enhanced Virtual Experiences'*](https://www.tandfonline.com/doi/full/10.1080/10447318.2024.2314818?scroll=top&needAccess=true) was accapted by IJHCI!
 
 # 📝 Publications 
-I cultivated my interest in HCI more focous on olfactory interaction by exploring a range of topics. Gradually, I found they formed three aspects: (1) **crossmodal inflence between perception** (CHI’25, DIS’25), (2) **olfactory in different scanio context** (CHI’25, IJHCI)  (3) **scent releasing methods** more base on hardwares (IJHCI).
-
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
