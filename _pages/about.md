@@ -58,7 +58,7 @@ So far, I cultivated my interest in HCI more focous on olfactory interaction by 
 **Yucheng Li**, Yanan Wang, Mengyuan Xiong, Max Chen, Yifan Yan, Junxian Li, Qi Wang, Preben Hansen
 
 <!-- *Project* -->
--An edible scent-releasing interfaces providing retronasal feedback for immersive experience in dining scanio.
+- An edible scent-releasing interfaces providing retronasal feedback for immersive experience in dining scanio.
 </div>
 </div>
 
@@ -178,7 +178,7 @@ Xiang Fei, Yanna Wang, **Yucheng Li**, Zhengyu Lou, Yifan Yan, Yujing Tian, Qing
 Yifan Yan, Yanna Wang, Mingyi Yuan, **Yucheng Li**, Yilin Shao, Guanyun Wang, Qi Wang, Yujing Tian
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- . 
+- A thin-film, five-layer, flexible, shape-changing heating-driven odor-emitting mechanism, aiming to provide lightweight, intricate, dynamic, and aesthetic olfactory displays and experiences. 
 </div>
 </div>
 
@@ -193,12 +193,12 @@ Yifan Yan, Yanna Wang, Mingyi Yuan, **Yucheng Li**, Yilin Shao, Guanyun Wang, Qi
   </div>
   <div class='paper-box-text' markdown="1">
 
-[**Review on Olfactory Display Technology**]('images/Olfactory Display Review,pdf') <div class="badge">Cover Airtle</div>
+[**Review on Olfactory Display Technology**]('images/Olfactory Display Review,pdf') 
 
 Yanna Wang, Yifan Yan, **Yucheng Li**, Yizhong Chen, Qingjun Chen
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- . 
+- <div class="badge">Cover Airtle</div> 
 </div>
 </div>
 
