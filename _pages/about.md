@@ -27,7 +27,7 @@ So far, I cultivated my interest in HCI more focous on olfactory interaction by 
 
 
 # 🔥 News
-- *2025.10* &nbsp;🏆 Excited to share that I was awarded the National Scholarship (1%) at Donghua University.
+- *2025.10* &nbsp;🌟 Excited to share that I was awarded the National Scholarship (1%) at Donghua University.
 - *2025.10* &nbsp;🎉 Two co-authores' posters were accepted by UIST’25! Congrats to [Qimeng](https://doi.org/10.1145/3746058.3758447) and [Yanzi](https://doi.org/10.1145/3746058.3758432)!
 - *2025.09* &nbsp;✨ Submitted my first-author paper to CHI 2026！
 - *2025.04* &nbsp;🥳 Excited to my first CHI in Yokohama, Japan🇯🇵! 
@@ -135,7 +135,7 @@ Qimeng Cui, Yanan Wang,**Yucheng Li**
 
 Junxian Li, Yanan Wang, Zhitong Cui, Jas Brooks, Yifan Yan, Zhengyu Lou, **Yucheng Li**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - Developing a user-defned gesture set for proactive interacting with scents in Virtual Reality (VR), aiming participants enhancing user experience, presence, and task performance.
 </div>
 </div>
@@ -203,16 +203,16 @@ Yanna Wang, Yifan Yan, **Yucheng Li**, Yizhong Chen, Qingjun Chen
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2025.10* National Scholarship of China (<1%, top award in China) 
-- *2025.05* 米兰设计周 北京赛区 third prize. (Topic:冰雪冬奥)
-- *2024.08* 米兰设计周 上海赛区 third prize (Topic: 虚拟现实下多感官沉浸式嗅觉体验装置)
-- *2024.05* 中国好创意 上海赛区 second prize (Topic:增强 VR 沉浸式体验的多气味释放)
-- *2023.06* Excellent Design and Thesis Award for Bachelor’s Degree (Research Topic: Visualization of traditional festivel.)
-- *2022.10* Second Prize Academic Scholarship (<10%) and Excellent Graduate Student
-- *2022.05* 中国好创意 national second prize（<2%）
-- *2021.10* Second Prize Academic Scholarship (<10%) and Excellent Graduate Student
-- *2021.08* ⼤学⽣计算机设计⼤赛 national second prize（<2%）
-- *2020.10* 国家励志奖学⾦ (<5%, WUHT) and Excellent Graduate Student
+- *2025.10* &nbsp;💡 National Scholarship of China (<1%, top award in China) 
+- *2025.05* &nbsp;🏆 米兰设计周 北京赛区 third prize. (Topic:冰雪冬奥)
+- *2024.08* &nbsp;🏆 米兰设计周 上海赛区 third prize (Topic: 虚拟现实下多感官沉浸式嗅觉体验装置)
+- *2024.05* &nbsp;🏆 中国好创意 上海赛区 second prize (Topic:增强 VR 沉浸式体验的多气味释放)
+- *2023.06* &nbsp;🌟 Excellent Design and Thesis Award for Bachelor’s Degree (Research Topic: Visualization of traditional festivel.)
+- *2022.10* &nbsp;💡 Second Prize Academic Scholarship (<10%) and Excellent Graduate Student
+- *2022.05* &nbsp;🏆 中国好创意 national second prize（<2%）
+- *2021.10* &nbsp;💡 Second Prize Academic Scholarship (<10%) and Excellent Graduate Student
+- *2021.08* &nbsp;🏆 ⼤学⽣计算机设计⼤赛 national second prize（<2%）
+- *2020.10* &nbsp;💡 国家励志奖学⾦ (<5%, WUHT) and Excellent Graduate Student
 
 # 📖 Educations
 - *2023-2026 (now)*, Master of Art in Design, Digital Media, Donghua Univeristy.
