@@ -156,7 +156,7 @@ Junxian Li, Yanan Wang, Zhitong Cui, Jas Brooks, Yifan Yan, Zhengyu Lou, **Yuche
 Xiang Fei, Yanna Wang, **Yucheng Li**, Zhengyu Lou, Yifan Yan, Yujing Tian, Qingjun Chen
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- Developing a tiny, VR-based, 25 scent-storaged olfactory display as a desing tool for non-expert users. 
+- Developing a tiny, VR-based, 25 scent-storage olfactory display as a design tool for non-expert users. 
 </div>
 </div>
 
@@ -221,5 +221,5 @@ Yanna Wang, Yifan Yan, **Yucheng Li**, Yizhong Chen, Qingjun Chen
 # 💬 Invited Talks
 - *2025.08*, 	Invited Talk at HHME, in Dalian, China. 🇨🇳 
 
-# 💻 Life
+# 🍀 Life
 - 
