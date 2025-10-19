@@ -215,11 +215,11 @@ Yanna Wang, Yifan Yan, **Yucheng Li**, Yizhong Chen, Qingjun Chen
 - *2020.10* 国家励志奖学⾦ (<5%, WUHT) and Excellent Graduate Student
 
 # 📖 Educations
-- *2023-2026 (now)*, Master of Art in Design, Meida interaction design, Donghua Univeristy.🇨🇳 
-- *2019-2023*, Bachelor of Art in Design, Visual communication, Wuhan University of Technology (WHUT). 🇨🇳 
+- *2023-2026 (now)*, Master of Art in Design, Digital Media, Donghua Univeristy.
+- *2019-2023*, Bachelor of Art in Design, Visual Communication Design, Wuhan University of Technology (WHUT).
 
 # 💬 Invited Talks
-- *2025.08*, 	Invited Talk at HHME, in Dalian.
+- *2025.08*, 	Invited Talk at HHME, in Dalian, China. 🇨🇳 
 
 # 💻 Life
 - 
