@@ -33,7 +33,7 @@ I aim to design intuitive interfaces that enable users to engage more naturally 
 - *2025.04* &nbsp;🎉 Congrats to a co-authored paper [*'MorphingScents: Fabricating Thin, Flexible, and Shape-Changing Odor-Emitting Mechanism for Interactive Olfactory Encounters'*](https://www.tandfonline.com/doi/epdf/10.1080/10447318.2024.2427407?needAccess=true) was accapted by IJHCI!
 - *2025.01* &nbsp;🎉 Congrats to a co-authored paper [*'Mid-Air Gestures for Proactive Olfactory Interactions in Virtual Reality'*](https://dl.acm.org/doi/pdf/10.1145/3706598.3713964) was accapted by CHI!
 - *2024.10* &nbsp;😋 I was invited to be a reviewer for ChineseCHI 2025! 
-- *2024.09* &nbsp;🎉 Our paper "ScentClue: Enhancing Story Engagement in Virtual Reality Through Hedonically Varied Olfactory Hints" was accapted by IJHCI! This is my first pulished paper! Thanks for Dr. Wang teaching and labmates' help!
+- *2024.09* &nbsp;🎉 Our paper [*‘ScentClue: Enhancing Story Engagement in Virtual Reality Through Hedonically Varied Olfactory Hints’*](https://www.tandfonline.com/doi/abs/10.1080/10447318.2024.2397173) was accapted by IJHCI! This is my first pulished paper! Thanks for Dr. Wang teaching and labmates' help!
 - *2024.08* &nbsp;🎉 Our paper [*'Review on Olfactory Display Technology'*] was accapted as the cover artical by Package engineering!
 - *2024.02* &nbsp;🎉 Congrats to a co-authored paper [*'OdorCarousel: A Design Tool for Customizing Smell Enhanced Virtual Experiences'*](https://www.tandfonline.com/doi/full/10.1080/10447318.2024.2314818?scroll=top&needAccess=true) was accapted by IJHCI!
 
