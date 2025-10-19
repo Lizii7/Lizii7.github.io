@@ -137,8 +137,15 @@ Yanna Wang, Yifan Yan, **Yucheng Li**, Yizhong Chen, Qingjun Chen
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2025.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10* National Scholarship of China (<1%, top award in China) 
+- *2025.05* 冰雪冬奥 米兰设计周 北京赛区 third prize。
+- *2024.08* OdorCarousel 虚拟现实下多感官沉浸式嗅觉体验装置 米兰设计周 上海赛区 third prize。
+- *2024.05* 增强 VR 沉浸式体验的多气味释放 中国好创意 上海赛区 second prize。
+- *2023.* 中国好创意 national second prize。
+- *2020.11*  国家励志奖学⾦ (<5%, WUHT)
+- *2020.9* ⼤学⽣计算机设计⼤赛 national second prize.
+
+
 
 # 📖 Educations
 - *2023-2026 (now)*, Master of Art in Design, Meida interaction design, Donghua Univeristy.🇨🇳 
@@ -146,7 +153,6 @@ Yanna Wang, Yifan Yan, **Yucheng Li**, Yizhong Chen, Qingjun Chen
 
 # 💬 Invited Talks
 - *2025.08*, 	Invited Talk at HHME, in Dalian.
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
