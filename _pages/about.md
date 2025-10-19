@@ -38,8 +38,16 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications 
 I cultivated my interest in HCI more focous on olfactory interaction by exploring a range of topics. Gradually, I found they formed three aspects: (1) **crossmodal inflence between perception** (CHI’25, DIS’25), (2) **olfactory in different scanio context ** (CHI’25, IJHCI)  (3) **scent releasing methods** more base on hardwares (IJHCI).
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI‘25</div><a href='https://dl.acm.org/doi/10.1145/3706599.3720200'><img src='images/AromaBite.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IJHCI</div>
+      <a href='https://dl.acm.org/doi/10.1145/3706599.3720200'>
+        <img src='images/AromaBite.jpg' alt="AromaBite" width="80%">
+      </a>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 [**AromaBite: Augmenting Flavor Experiences Through Edible Retronasal Scent Release**](https://dl.acm.org/doi/pdf/10.1145/3706599.3720200)
 
@@ -50,8 +58,16 @@ I cultivated my interest in HCI more focous on olfactory interaction by explorin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI</div><a href='https://www.tandfonline.com/doi/abs/10.1080/10447318.2024.2397173'><img src='images/ScentClue.png' alt="ScentClue" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IJHCI</div>
+      <a href='https://www.tandfonline.com/doi/abs/10.1080/10447318.2024.2397173'>
+        <img src='images/ScentClue.png' alt="ScentClue" width="100%">
+      </a>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 [**ScentClue: Enhancing Story Engagement in Virtual Reality Through Hedonically Varied Olfactory Hints**](https://www.tandfonline.com/doi/epdf/10.1080/10447318.2024.2397173?needAccess=true)
 
@@ -98,7 +114,16 @@ Junxian Li, Yanan Wang, Zhitong Cui, Jas Brooks, Yifan Yan, Zhengyu Lou, **Yuche
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI</div><a href='https://www.tandfonline.com/doi/abs/10.1080/10447318.2024.2314818'><img src='images/Odorcarousel.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI</div><a href='https://<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IJHCI</div>
+      <a href='https://www.tandfonline.com/doi/abs/10.1080/10447318.2024.2314818'>
+        <img src='images/Odorcarousel.png' alt="sym" width="100%">
+      </a>
+    </div>
+  </div>
+</div>
 <div class='paper-box-text' markdown="1">
 
 [**OdorCarousel: A Design Tool for Customizing Smell-Enhanced Virtual Experiences**](https://www.tandfonline.com/doi/full/10.1080/10447318.2024.2314818?scroll=top&needAccess=true)
