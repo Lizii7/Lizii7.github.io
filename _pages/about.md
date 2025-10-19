@@ -36,7 +36,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024.02* &nbsp;🎉 Congrats to a co-authored paper ['OdorCarousel: A Design Tool for Customizing Smell Enhanced Virtual Experiences'](https://www.tandfonline.com/doi/full/10.1080/10447318.2024.2314818?scroll=top&needAccess=true) was accapted by IJHCI!
 
 # 📝 Publications 
-I cultivated my interest in HCI by exploring a range of topics. Gradually, I found they formed two lines: (1) empowering storytelling (UIST’25) or leveraging storytelling to facilitate positive reflection (CHI’25, DIS’25); and (2) tangible interfaces based on e-textiles (UIST’23, Ubicomp/ISWC’23, IJHCI).  
+I cultivated my interest in HCI more focous on olfactory interaction by exploring a range of topics. Gradually, I found they formed three aspects: (1) **crossmodal inflence between perception** (CHI’25, DIS’25), (2) **olfactory in different scanio context ** (CHI’25, IJHCI)  (3) **scent releasing methods** more base on hardwares (IJHCI).
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI‘25</div><a href='https://dl.acm.org/doi/10.1145/3706599.3720200'><img src='images/AromaBite.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
