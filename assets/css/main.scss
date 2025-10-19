@@ -69,13 +69,14 @@
         .paper-box-image{
             justify-content: left;
             min-width: 200px;
-            max-width: 20%;
+            max-width: 40%;
             order: 1;
         }
         
         .paper-box-text{
             justify-content: left;
             padding-left: 2em;
+            max-width: 60%;
             max-width: 60%;
             order: 2;
         }
@@ -102,6 +103,8 @@ h1:before, .anchor:before {
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
+    background-color: #00369f;
+    font-size: .8em;
     background-color: #00369f;
     font-size: .8em;
 }
