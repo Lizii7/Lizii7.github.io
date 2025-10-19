@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-7
+
 Hi,I'm Yucheng Li, a year-3 M.D. stduent advised by [**Yanan Wang**](https://scholar.google.com/citations?user=iFxl5vwAAAAJ&hl=zh-CN&oi=sra) in Donghua University, Shanghai. As a member of [**NewSense Research Lab**](https://hci-newsense.org/), my research focuses on Human-Computer Interaction (HCI), creating **immersive** and **multi-sensory experiences**, with an emphasis on **Interaction Design**, **User Experience** and **Virtual reality**. I am particularly interested in developing innovative ways to enhance sensory feedback, such as through material driven design to create olfactory feedback in specific people or scaino, to bridge the gap between physical and digital environments. 
 
 I aim to design intuitive interfaces that enable users to engage more naturally feedback and virtual environments. My work spans experimental system development, user-centered design, and evaluating multi-sensory interfaces to explore how digital interactivity can be both enriching and intuitive.
