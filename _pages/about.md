@@ -41,7 +41,7 @@ I cultivated my interest in HCI more focous on olfactory interaction by explorin
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">IJHCI</div>
+      <div class="badge">CHI'25</div>
       <a href='https://dl.acm.org/doi/10.1145/3706599.3720200'>
         <img src='images/AromaBite.jpg' alt="AromaBite" width="100%">
       </a>
