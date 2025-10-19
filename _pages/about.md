@@ -56,8 +56,9 @@ So far, I cultivated my interest in HCI more focous on olfactory interaction by 
 [**AromaBite: Augmenting Flavor Experiences Through Edible Retronasal Scent Release**](https://dl.acm.org/doi/pdf/10.1145/3706599.3720200)
 
 **Yucheng Li**, Yanan Wang, Mengyuan Xiong, Max Chen, Yifan Yan, Junxian Li, Qi Wang, Preben Hansen
+
 <!-- *Project* -->
--An edible scent-releasing interfaces for immersive experience in dining scanio.
+-An edible scent-releasing interfaces providing retronasal feedback for immersive experience in dining scanio.
 </div>
 </div>
 
@@ -76,8 +77,8 @@ So far, I cultivated my interest in HCI more focous on olfactory interaction by 
 
 Yanna Wang, **Yucheng Li**, Mingyi Yuan, Xiang Fei, Shihang Ma, Preben Hansen 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- Exploring informational olfactory though adding scents in a murder video. 
 </div>
 </div>
 
@@ -96,8 +97,8 @@ Yanna Wang, **Yucheng Li**, Mingyi Yuan, Xiang Fei, Shihang Ma, Preben Hansen
 
 Yanzi Zhu, **Yucheng Li**, Yanan Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- Exploring cross-modal dynamic visual effects to simulate olfactory experiences without physical scent emission, offering a scalable alternative to hardware-dependent solutions while expanding AR applications in scent simulation.
 </div>
 </div>
 
@@ -116,8 +117,8 @@ Yanzi Zhu, **Yucheng Li**, Yanan Wang
 
 Qimeng Cui, Yanan Wang,**Yucheng Li**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- Applying olfactory illusion to enable a single scent material to be perceived as multiple objects in a VR environment. 
 </div>
 </div>
 
@@ -137,7 +138,7 @@ Qimeng Cui, Yanan Wang,**Yucheng Li**
 Junxian Li, Yanan Wang, Zhitong Cui, Jas Brooks, Yifan Yan, Zhengyu Lou, **Yucheng Li**
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Developing a user-defned gesture set for proactive interacting with scents in Virtual Reality (VR), aiming participants enhancing user experience, presence, and task performance.
 </div>
 </div>
 
@@ -156,8 +157,8 @@ Junxian Li, Yanan Wang, Zhitong Cui, Jas Brooks, Yifan Yan, Zhengyu Lou, **Yuche
 
 Xiang Fei, Yanna Wang, **Yucheng Li**, Zhengyu Lou, Yifan Yan, Yujing Tian, Qingjun Chen
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- Developing a tiny, VR-based, 25 scent-storaged olfactory display as a desing tool for non-expert users. 
 </div>
 </div>
 
@@ -176,8 +177,8 @@ Xiang Fei, Yanna Wang, **Yucheng Li**, Zhengyu Lou, Yifan Yan, Yujing Tian, Qing
 
 Yifan Yan, Yanna Wang, Mingyi Yuan, **Yucheng Li**, Yilin Shao, Guanyun Wang, Qi Wang, Yujing Tian
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- . 
 </div>
 </div>
 
@@ -192,12 +193,12 @@ Yifan Yan, Yanna Wang, Mingyi Yuan, **Yucheng Li**, Yilin Shao, Guanyun Wang, Qi
   </div>
   <div class='paper-box-text' markdown="1">
 
-[**Review on Olfactory Display Technology**]('images/Olfactory Display Review,pdf')
+[**Review on Olfactory Display Technology**]('images/Olfactory Display Review,pdf') <div class="badge">Cover Airtle</div>
 
 Yanna Wang, Yifan Yan, **Yucheng Li**, Yizhong Chen, Qingjun Chen
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- . 
 </div>
 </div>
 
