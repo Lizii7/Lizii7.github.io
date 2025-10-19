@@ -85,7 +85,7 @@ Yanna Wang, **Yucheng Li**, Mingyi Yuan, Xiang Fei, Shihang Ma, Preben Hansen
     <div>
       <div class="badge">UIST'25</div>
       <a href='https://dl.acm.org/doi/10.1145/3746058.3758432'>
-        <img src='images/Visualeffect.png' alt="waiting" width="80%">
+        <img src='images/Visualeffect.png' alt="waiting" width="100%">
       </a>
     </div>
   </div>
@@ -105,7 +105,7 @@ Yanzi Zhu, **Yucheng Li**, Yanan Wang
     <div>
       <div class="badge">UIST'25</div>
       <a href='https://dl.acm.org/doi/10.1145/3746058.3758447'>
-        <img src='images/Illusion.png' alt="waiting" width="80%">
+        <img src='images/Illusion.png' alt="waiting" width="100%">
       </a>
     </div>
   </div>
@@ -125,7 +125,7 @@ Qimeng Cui, Yanan Wang,**Yucheng Li**
     <div>
       <div class="badge">CHI'25</div>
       <a href='https://dl.acm.org/doi/10.1145/3706598.3713964'>
-        <img src='images/Mid-air.png' alt="waiting" width="80%">
+        <img src='images/Mid-air.png' alt="waiting" width="100%">
       </a>
     </div>
   </div>
@@ -145,7 +145,7 @@ Junxian Li, Yanan Wang, Zhitong Cui, Jas Brooks, Yifan Yan, Zhengyu Lou, **Yuche
     <div>
       <div class="badge">IJHCI</div>
       <a href='https://www.tandfonline.com/doi/abs/10.1080/10447318.2024.2314818'>
-        <img src='images/Odorcarousel.png' alt="waiting" width="80%">
+        <img src='images/Odorcarousel.png' alt="waiting" width="100%">
       </a>
     </div>
   </div>
@@ -165,7 +165,7 @@ Xiang Fei, Yanna Wang, **Yucheng Li**, Zhengyu Lou, Yifan Yan, Yujing Tian, Qing
     <div>
       <div class="badge">IJHCI</div>
       <a href='https://www.tandfonline.com/doi/abs/10.1080/10447318.2024.2443239'>
-        <img src='images/MorphingScents.png' alt="waiting" width="80%">
+        <img src='images/MorphingScents.png' alt="waiting" width="100%">
       </a>
     </div>
   </div>
@@ -185,7 +185,7 @@ Yifan Yan, Yanna Wang, Mingyi Yuan, **Yucheng Li**, Yilin Shao, Guanyun Wang, Qi
     <div>
       <div class="badge">Packaging Engineering</div>
       <a href='https://www.tandfonline.com/doi/abs/10.1080/10447318.2024.2443239'>
-        <img src='images/Review.jpg' alt="waiting" width="80%">
+        <img src='images/Review.jpg' alt="waiting" width="100%">
       </a>
     </div>
   </div>
