@@ -56,9 +56,8 @@ So far, I cultivated my interest in HCI more focous on olfactory interaction by 
 [**AromaBite: Augmenting Flavor Experiences Through Edible Retronasal Scent Release**](https://dl.acm.org/doi/pdf/10.1145/3706599.3720200)
 
 **Yucheng Li**, Yanan Wang, Mengyuan Xiong, Max Chen, Yifan Yan, Junxian Li, Qi Wang, Preben Hansen
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- *Project* -->
+-An edible scent-releasing interfaces for immersive experience in dining scanio.
 </div>
 </div>
 
