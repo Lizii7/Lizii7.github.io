@@ -37,7 +37,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI‘25</div><img src='images/AromaBite.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI‘25</div><a href='https://dl.acm.org/doi/10.1145/3706599.3720200'><img src='images/AromaBite.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**AromaBite: Augmenting Flavor Experiences Through Edible Retronasal Scent Release**](https://dl.acm.org/doi/pdf/10.1145/3706599.3720200)
@@ -49,7 +49,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI</div><a href='https://www.tandfonline.com/doi/epdf/10.1080/10447318.2024.2397173?needAccess=true'><img src='images/ScentClue.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI</div><a href='https://www.tandfonline.com/doi/abs/10.1080/10447318.2024.2397173'><img src='images/ScentClue.png' alt="ScentClue" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ScentClue: Enhancing Story Engagement in Virtual Reality Through Hedonically Varied Olfactory Hints**](https://www.tandfonline.com/doi/epdf/10.1080/10447318.2024.2397173?needAccess=true)
@@ -61,7 +61,7 @@ Yanna Wang, **Yucheng Li**, Mingyi Yuan, Xiang Fei, Shihang Ma, Preben Hansen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST‘25</div><img src='images/Visualeffect.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST‘25</div><a href='https://dl.acm.org/doi/10.1145/3746058.3758432'><img src='images/Visualeffect.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Designing Visual Effects to Fabricate Olfactory Experiences in Augmented Reality**](https://dl.acm.org/doi/pdf/10.1145/3746058.3758432)
@@ -73,7 +73,7 @@ Yanzi Zhu, **Yucheng Li**, Yanan Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST‘25</div><img src='images/Illusion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST‘25</div><a href='https://dl.acm.org/doi/10.1145/3746058.3758447'><img src='images/Illusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Exploring Olfactory Illusion of Virtual Objects Using Fewer Odor Sources**](https://dl.acm.org/doi/pdf/10.1145/3746058.3758447)
@@ -85,7 +85,7 @@ Qimeng Cui, Yanan Wang,**Yucheng Li**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST‘25</div><img src='images/Mid-air.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST‘25</div><a href='https://dl.acm.org/doi/10.1145/3706598.3713964'><img src='images/Mid-air.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Mid-Air Gestures for Proactive Olfactory Interactions in Virtual Reality**](https://dl.acm.org/doi/pdf/10.1145/3706598.3713964)
@@ -97,7 +97,7 @@ Junxian Li, Yanan Wang, Zhitong Cui, Jas Brooks, Yifan Yan, Zhengyu Lou, **Yuche
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI</div><img src='images/Odorcarousel.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI</div><a href='https://www.tandfonline.com/doi/abs/10.1080/10447318.2024.2314818'><img src='images/Odorcarousel.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**OdorCarousel: A Design Tool for Customizing Smell-Enhanced Virtual Experiences**](https://www.tandfonline.com/doi/full/10.1080/10447318.2024.2314818?scroll=top&needAccess=true)
@@ -109,7 +109,7 @@ Xiang Fei, Yanna Wang, **Yucheng Li**, Zhengyu Lou, Yifan Yan, Yujing Tian, Qing
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI</div><img src='images/MorphingScents.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI</div><a href='https://www.tandfonline.com/doi/abs/10.1080/10447318.2024.2443239'><img src='images/MorphingScents.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**MorphingScents: Fabricating Thin, Flexible, and Shape-Changing Odor-Emitting Mechanism for Interactive Olfactory Encounters**](https://www.tandfonline.com/doi/epdf/10.1080/10447318.2024.2427407?needAccess=true)
@@ -140,15 +140,11 @@ Yanna Wang, Yifan Yan, **Yucheng Li**, Yizhong Chen, Qingjun Chen
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-[2023-present] Master of Art in Design, College of Design and Innovation, Donghua Univeristy 🇨🇳
-
-[2019-2023] Bachelor of Wuhan University of Technology (WHUT) 🇨🇳
+- *2023-2026 (now)*, Master of Art in Design, Meida interaction design, Donghua Univeristy.🇨🇳 
+- *2019-2023*, Bachelor of Art in Design, Visual communication, Wuhan University of Technology (WHUT). 🇨🇳 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.08*, 	Invited Talk at HHME, in Dalian.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
