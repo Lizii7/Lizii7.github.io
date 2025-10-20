@@ -87,7 +87,7 @@
 
 }
 
-$scroll_offset : 0.5em;
+$scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
     display: block; 
@@ -110,4 +110,13 @@ h1:before, .anchor:before {
 
 .red-text {
     color: rgb(221, 133, 114);
+}
+
+$scroll-offset: 4em; // 根据导航高度微调，约等于 64px
+
+.anchor::before {
+  content: '';
+  display: block;
+  height: $scroll-offset;
+  margin-top: -$scroll-offset;
 }
