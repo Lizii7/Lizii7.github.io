@@ -20,7 +20,7 @@ Hi,I'm Yucheng Li, a year-3 master stduent advised by [**Yanan Wang**](https://s
 
 I aim to design intuitive interfaces that enable users to engage more naturally feedback in virtual environments. My work spans experimental <span class="red-text">hardware development</span>, <span class="red-text">user-centered design</span>, and evaluating multi-sensory interfaces to explore how digital interactivity can be both enriching and intuitive.
 
-So far, I cultivated my interest in HCI more focous on olfactory interaction by exploring a range of topics. Gradually, I found they formed three aspects: (1) base on hardwares exploring **scent releasing methods** for natual olfactory displays (IJHCI), (2) **olfactory feedback in different scanio context** (CHI’25, IJHCI), (3) **crossmodal sensory influence** in virtual environment (CHI’25, DIS’25).
+So far, I cultivated my interest in HCI more focous on olfactory interaction by exploring a range of topics. Gradually, I found they formed three aspects: (1) **Hardware-driven olfactory design** – developing natural scent-release mechanisms for embodied olfactory displays (IJHCI). (2) **Contextual olfactory feedback** – studying how scent stimuli alter experiences in diverse VR scenarios (CHI’25, IJHCI). (3) **Crossmodal perception and multisensory integration** – examining how visual, tactile, and olfactory cues interact to shape immersion and presence (CHI’25, DIS’25).
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -75,7 +75,7 @@ So far, I cultivated my interest in HCI more focous on olfactory interaction by 
 Yanna Wang, **Yucheng Li**, Mingyi Yuan, Xiang Fei, Shihang Ma, Preben Hansen 
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- Exploring informational olfactory though adding scents in a murder video. 
+- Explored the effect of hedonic olfactory cues on emotional engagement and narrative immersion in VR storytelling based on a self-filmed suspense short film. 
 </div>
 </div>
 
@@ -155,7 +155,7 @@ Junxian Li, Yanan Wang, Zhitong Cui, Jas Brooks, Yifan Yan, Zhengyu Lou, **Yuche
 Xiang Fei, Yanna Wang, **Yucheng Li**, Zhengyu Lou, Yifan Yan, Yujing Tian, Qingjun Chen
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- Developing a tiny, VR-based, 25 scent-storage olfactory display as a design tool for non-expert users. 
+- Developing a tiny（*diameter 50mm，weight<60g*）, VR-based, 25 scent-storage olfactory display as a design tool for non-expert users.  
 </div>
 </div>
 
@@ -203,15 +203,15 @@ Yanna Wang, Yifan Yan, **Yucheng Li**, Yizhong Chen, Qingjun Chen
 
 # 🎖 Honors and Awards
 - *2025.10* &nbsp;💡 National Scholarship of China (<1%, top award in China) 
-- *2025.05* &nbsp;🏆 米兰设计周 北京赛区 third prize. (Topic:冰雪冬奥)
-- *2024.08* &nbsp;🏆 米兰设计周 上海赛区 third prize (Topic: 虚拟现实下多感官沉浸式嗅觉体验装置)
-- *2024.05* &nbsp;🏆 中国好创意 上海赛区 second prize (Topic:增强 VR 沉浸式体验的多气味释放)
+- *2025.05* &nbsp;🏆 Third prize, Shangha region, *Milan Design Week China Collegiate Design Competition & Exhibition*. (Topic: Static Media)
+- *2024.08* &nbsp;🏆 Third prize, Shangha region, *Milan Design Week China Collegiate Design Competition & Exhibition*。 (Topic: Multisensory immersive olfactory display)
+- *2024.05* &nbsp;🏆 Second prize, Shanghai region, *CHINA CREATIVE CHALLENGES CONTEST（3C）(Topic:增强 VR 沉浸式体验的多气味释放)
 - *2023.06* &nbsp;🌟 Excellent Design and Thesis Award for Bachelor’s Degree (Research Topic: Visualization of traditional festivel.)
 - *2022.10* &nbsp;💡 Second Prize Academic Scholarship (<10%) and Excellent Graduate Student
-- *2022.05* &nbsp;🏆 中国好创意 national second prize（<2%）
+- *2022.05* &nbsp;🏆 National second prize, *CHINA CREATIVE CHALLENGES CONTEST（3C）*（<2%）
 - *2021.10* &nbsp;💡 Second Prize Academic Scholarship (<10%) and Excellent Graduate Student
-- *2021.08* &nbsp;🏆 ⼤学⽣计算机设计⼤赛 national second prize（<2%）
-- *2020.10* &nbsp;💡 国家励志奖学⾦ (<5%, WUHT) and Excellent Graduate Student
+- *2021.08* &nbsp;🏆 National second prize, *College Student Computer Design Competition*（<2%）
+- *2020.10* &nbsp;💡 National Endeavor Scholarship (<5%, WHUT) and Excellent Graduate Student
 
 # 📖 Educations
 - *2023-2026 (now)*, Master of Art in Design, Digital Media, Donghua Univeristy.
