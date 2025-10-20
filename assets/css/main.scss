@@ -86,16 +86,27 @@
 
 
 }
+.anchor {
+  position: relative;
 
-$scroll_offset : 2em;
-h1:before, .anchor:before { 
-    content: ''; 
-    display: block; 
-    position: relative; 
-    width: 0; 
-    height: $scroll_offset; 
-    margin-top: -$scroll_offset;
+  &::before {
+    content: "";
+    display: block;
+    height: 80px; // 这里是你的导航栏高度，可调整
+    margin-top: -80px;
+  }
 }
+
+
+// $scroll_offset : 2em;
+// h1:before, .anchor:before { 
+//     content: ''; 
+//     display: block; 
+//     position: relative; 
+//     width: 0; 
+//     height: $scroll_offset; 
+//     margin-top: -$scroll_offset;
+// }
 
 .badge {
     padding-left: 1rem;
@@ -110,13 +121,4 @@ h1:before, .anchor:before {
 
 .red-text {
     color: rgb(221, 133, 114);
-}
-
-$scroll-offset: 4em; // 根据导航高度微调，约等于 64px
-
-.anchor::before {
-  content: '';
-  display: block;
-  height: $scroll-offset;
-  margin-top: -$scroll-offset;
 }
