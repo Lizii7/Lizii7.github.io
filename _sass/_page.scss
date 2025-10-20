@@ -35,7 +35,7 @@
 }
 .page {
   position: relative;
-  top: -60px; /* 这里的数值按实际情况微调，比如 -40px、-80px */
+  top: -350px; /* 这里的数值按实际情况微调，比如 -40px、-80px */
 }
 
 .page__title {
@@ -53,27 +53,27 @@
 }
 
 .page__content {
-  // #about-me{
-  //   margin-top: 0em;
-  //     &:before { 
-  //       content: ''; 
-  //       display: block; 
-  //       position: relative; 
-  //       // width: 0; 
-  //       // height: 10em; 
-  //       // margin-top: -10em;
-  //   }
-  // }
-  #about-me {
-  position: relative;
-
-  &::before {
-    content: '';
-    display: block;
-    height: 70px; // 导航栏高度（你可以微调）
-    margin-top: -70px;
-    visibility: hidden;
+  #about-me{
+    margin-top: 0em;
+      &:before { 
+        content: ''; 
+        display: block; 
+        position: relative; 
+        // width: 0; 
+        // height: 10em; 
+        // margin-top: -10em;
+    }
   }
+  // #about-me {
+  // position: relative;
+
+  // &::before {
+  //   content: '';
+  //   display: block;
+  //   height: 70px; // 导航栏高度（你可以微调）
+  //   margin-top: -70px;
+  //   visibility: hidden;
+  // }
 }
   h1 {
     margin-top: 1em;
