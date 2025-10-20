@@ -170,7 +170,7 @@ Xiang Fei, Yanna Wang, **Yucheng Li**, Zhengyu Lou, Yifan Yan, Yujing Tian, Qing
   </div>
   <div class='paper-box-text' markdown="1">
 
-[**MorphingScents: Fabricating Thin, Flexible, and Shape-Changing Odor-Emitting Mechanism for Interactive Olfactory Encounters**](https://www.tandfonline.com/doi/epdf/10.1080/10447318.2024.2427407?needAccess=true)
+[**MorphingScents: Fabricating Thin, Flexible, and Shape-Changing Odor-Emitting Mechanism for Interactive Olfactory Encounters**](https://www.tandfonline.com/doi/abs/10.1080/10447318.2024.2443239)
 
 Yifan Yan, Yanna Wang, Mingyi Yuan, **Yucheng Li**, Yilin Shao, Guanyun Wang, Qi Wang, Yujing Tian
 
