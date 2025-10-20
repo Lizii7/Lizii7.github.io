@@ -203,10 +203,10 @@ Yanna Wang, Yifan Yan, **Yucheng Li**, Yizhong Chen, Qingjun Chen
 
 # 🎖 Honors and Awards
 - *2025.10* &nbsp;💡 National Scholarship of China (<1%, top award in China) 
-- *2025.05* &nbsp;🏆 Third prize, Shangha region, *Milan Design Week China Collegiate Design Competition & Exhibition*. (Topic: Static Media)
-- *2024.08* &nbsp;🏆 Third prize, Shangha region, *Milan Design Week China Collegiate Design Competition & Exhibition*。 (Topic: Multisensory immersive olfactory display)
+- *2025.05* &nbsp;🏆 Third prize, Shangha region, *Milan Design Week China Collegiate Design Competition & Exhibition* (Topic: Static Media)
+- *2024.08* &nbsp;🏆 Third prize, Shangha region, *Milan Design Week China Collegiate Design Competition & Exhibition* (Topic: Multisensory immersive olfactory display)
 - *2024.05* &nbsp;🏆 Second prize, Shanghai region, *CHINA CREATIVE CHALLENGES CONTEST（3C）*(Topic: Enhancing immersive experience by multi scent releasing)
-- *2023.06* &nbsp;🌟 Excellent Design and Thesis Award for Bachelor’s Degree (Research Topic: Visualization of traditional festivel.)
+- *2023.06* &nbsp;🌟 Excellent Design and Thesis Award for Bachelor’s Degree (Research Topic: Visualization of traditional festivel)
 - *2022.10* &nbsp;💡 Second Prize Academic Scholarship (<10%) and Excellent Graduate Student
 - *2022.05* &nbsp;🏆 National second prize, *CHINA CREATIVE CHALLENGES CONTEST（3C)*（<2%）
 - *2021.10* &nbsp;💡 Second Prize Academic Scholarship (<10%) and Excellent Graduate Student
