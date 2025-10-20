@@ -26,7 +26,7 @@ So far, I cultivated my interest in HCI more focous on olfactory interaction by 
 
 
 # 🔥 News
-- *2025.10* &nbsp;🌟 Excited to share that I was awarded the National Scholarship (1%) at Donghua University.
+- *2025.10* &nbsp;🌟 Excited to share that I was awarded the National Scholarship (2%) at Donghua University.
 - *2025.10* &nbsp;🎉 Two co-authores' posters were accepted by UIST’25! Congrats to [Qimeng](https://doi.org/10.1145/3746058.3758447) and [Yanzi](https://doi.org/10.1145/3746058.3758432)!
 - *2025.09* &nbsp;✨ Submitted my first-author paper to CHI 2026！
 - *2025.04* &nbsp;🥳 Excited to my first CHI in Yokohama, Japan🇯🇵! 
@@ -202,7 +202,7 @@ Yanna Wang, Yifan Yan, **Yucheng Li**, Yizhong Chen, Qingjun Chen
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2025.10* &nbsp;💡 National Scholarship of China (<1%, top award in China) 
+- *2025.10* &nbsp;💡 National Scholarship of China (<2%, top award in China) 
 - *2025.05* &nbsp;🏆 Third prize, Shangha region, *Milan Design Week China Collegiate Design Competition & Exhibition* (Topic: Static Media)
 - *2024.08* &nbsp;🏆 Third prize, Shangha region, *Milan Design Week China Collegiate Design Competition & Exhibition* (Topic: Multisensory immersive olfactory display)
 - *2024.05* &nbsp;🏆 Second prize, Shanghai region, *CHINA CREATIVE CHALLENGES CONTEST（3C）*(Topic: Enhancing immersive experience by multi scent releasing)
