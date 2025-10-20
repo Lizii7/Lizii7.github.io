@@ -86,17 +86,6 @@
 
 
 }
-.anchor {
-  position: relative;
-
-  &::before {
-    content: "";
-    display: block;
-    height: 80px; // 这里是你的导航栏高度，可调整
-    margin-top: -80px;
-  }
-}
-
 
 // $scroll_offset : 2em;
 // h1:before, .anchor:before { 
