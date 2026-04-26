@@ -27,6 +27,7 @@ So far, I cultivated my interest in HCI more focous on olfactory interaction by 
 
 
 # 🔥 News
+<div class="news-scroll" markdown="1">
 - *2025.10* &nbsp;🌟 Excited to share that I was awarded the National Scholarship (2%) at Donghua University.
 - *2025.10* &nbsp;🎉 Two co-authores' posters were accepted by UIST’25! Congrats to [Qimeng](https://doi.org/10.1145/3746058.3758447) and [Yanzi](https://doi.org/10.1145/3746058.3758432)!
 - *2025.09* &nbsp;✨ Submitted my first-author paper to CHI 2026！
@@ -38,6 +39,7 @@ So far, I cultivated my interest in HCI more focous on olfactory interaction by 
 - *2024.09* &nbsp;🎉 Our paper [*‘ScentClue: Enhancing Story Engagement in Virtual Reality Through Hedonically Varied Olfactory Hints’*](https://www.tandfonline.com/doi/abs/10.1080/10447318.2024.2397173) was accapted by IJHCI! This is my first pulished paper! Thanks for Dr. Wang teaching and labmates' help!
 - *2024.08* &nbsp;🎉 Our paper [*'Review on Olfactory Display Technology'*]() was accapted as the cover artical by Package engineering!
 - *2024.02* &nbsp;🎉 Congrats to a co-authored paper [*'OdorCarousel: A Design Tool for Customizing Smell Enhanced Virtual Experiences'*](https://www.tandfonline.com/doi/full/10.1080/10447318.2024.2314818?scroll=top&needAccess=true) was accapted by IJHCI!
+</div>
 
 # 📝 Publications 
 <div class='paper-box'>

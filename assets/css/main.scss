@@ -111,3 +111,21 @@ h1:before, .anchor:before {
 .red-text {
     color: rgb(221, 133, 114);
 }
+
+.news-scroll {
+    max-height: 18em;
+    margin: .25em 0 1.25em 0;
+    padding: .75em 1em .25em 1em;
+    overflow-y: auto;
+    border: 1px solid $border-color;
+    border-radius: $border-radius;
+    background: #fff;
+
+    ul {
+        margin-bottom: 0;
+    }
+
+    li {
+        padding-right: .5em;
+    }
+}
